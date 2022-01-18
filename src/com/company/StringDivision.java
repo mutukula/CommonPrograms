@@ -32,7 +32,7 @@ public class StringDivision {
                 for(int j=1;j<=5;j++){
                     String temp = String.valueOf(Swap.indexOf(i));
                      temp1 = temp;
-                    afterSwaping = String.valueOf(Swap.indexOf(j));
+                    afterSwaping = String.valueOf(Swap.indexOf(i));
                 }
             }
         }
